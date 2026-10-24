@@ -4,7 +4,8 @@ Este README solo explica esta carpeta. Qué manda sobre qué está en `CLAUDE.md
 el material está acá, en `docs/DECISIONS.md`, 2026-10-22 "El material del backlog entra en
 docs/context".
 
-Llegó en `contexto.zip` el 2026-10-22 y se copió sin cambios en el primer commit de la siembra. Los
+Llegó en `contexto.zip` el 2026-10-22. La siembra lo copió y, en el mismo commit, le aplicó las
+correcciones a las 12 historias, una por fila en `plan-desarrollo-12-historias.md`, sección 8. Los
 cambios posteriores se ven con `git log -- docs/context`. Los nombres de archivo son los originales,
 porque los textos se citan entre sí por ruta.
 
